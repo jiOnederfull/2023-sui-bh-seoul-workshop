@@ -27,7 +27,7 @@ rustup update stable
 ```
 - Press RETURN/ENTER
 ```
-(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/onederfull/.zprofile
+(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> {your root path}/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 3. cURL / CMake / Git CLI
